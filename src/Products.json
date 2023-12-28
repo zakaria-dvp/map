@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "zakaria",
+        "age": 25,
+        "job":"developer",
+        "city":"cairo"
+    },
+    {
+        "name" : "rachid",
+        "age": 4,
+        "job":"developer",
+        "city":"cairo"
+    },
+    {
+        "name" : "youness",
+        "age": 25,
+        "job":"developer",
+        "city":"cairo"
+    }
+]
